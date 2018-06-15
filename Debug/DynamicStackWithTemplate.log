@@ -1,0 +1,6 @@
+﻿  DynaStack.cpp
+c1xx : fatal error C1083: Cannot open source file: 'DynaStack.cpp': No such file or directory
+  DynStack.cpp
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  Source.cpp
